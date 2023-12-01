@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Detchie</h1>
-<h3 align="center">A passionate Healthcare Data/Financial Analyst transitioning into Data Engineering</h3>
+<h3 align="center">Snr. Health Progam Analyst || Snr. Business Analyst || ERP Consultant || Data Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacdetch&label=Profile%20views&color=0e75b6&style=flat" alt="isaacdetch" /> </p>
 
