@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Detchie</h1>
-<h3 align="center">Health Progam Audit Manager|| Snr. Data/Business Analyst || ERP Consultant || Data Engineer</h3>
+<h3 align="center">|| Snr. Data/Business Analyst || SAP S/4HANA FICO Consultant || Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacdetch&label=Profile%20views&color=0e75b6&style=flat" alt="isaacdetch" /> </p>
 
