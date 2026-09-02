@@ -11,9 +11,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacdetch&show_icons=true&locale=en&layout=compact" alt="isaacdetch" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacdetch&show_icons=true&locale=en" alt="isaacdetch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacdetch&" alt="isaacdetch" /></p>
